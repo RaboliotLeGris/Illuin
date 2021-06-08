@@ -9,7 +9,7 @@ rocket = "0.4.10"
 serde = "1.0.126"
 serde_json = "1.0.64"
 serde_derive = "1.0.126"
-rocket-multipart-form-data = "0.8.1"
+rocket-multipart-form-data = "0.9.6"
 nanoid = "0.4.0"
 clap = "2.33.3"
 
